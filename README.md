@@ -31,10 +31,10 @@ python3 main.py --mode 'inf' --dataset '5cp'
 
 ## Citation 
 ```
-@inproceedings{han2022surfnet,
+@article{han2022surfnet,
   title={SurfNet: Learning surface representations via graph convolutional network},
   author={Han, Jun and Wang, Chaoli},
-  booktitle={Computer Graphics Forum},
+  journal={Computer Graphics Forum},
   volume={41},
   number={3},
   pages={109--120},
