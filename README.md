@@ -12,7 +12,7 @@ Pytorch implementation for SurfNet: Learning Surface Representations via Graph C
 
 ## Data format
 
-There are three types of files required for training SurfNet. The first file is a graphml, which stores the topological structure of a surface, i.e., adjacency matrix; the second file stores the information of each node on a surface, such as position and veclocity; the third file stores all shortest paths between two nodes on a surface.
+There are three types of files required for training SurfNet. The first file is a graphml, which stores the topological structure of a surface, i.e., adjacency matrix; the second file stores the information of each node on a surface, such as position and velocity; the third file stores all shortest paths between two nodes on a surface.
 
 ## Training models
 ```
